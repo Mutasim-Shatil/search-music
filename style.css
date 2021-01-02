@@ -38,4 +38,12 @@ body{
     background: rgba(255, 255, 255, 0.2);
     border-radius: 15px;
 }
-
+.author{
+    display: none;
+}
+.lead {
+    text-align: center;
+}
+.lyrics {
+    display: none;
+}
